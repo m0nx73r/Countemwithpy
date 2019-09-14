@@ -1,2 +1,2 @@
 
-Thanks to howcode for help with api thingy :')
+Thanks to howcode for helping me out with api thingy :')
